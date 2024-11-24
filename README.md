@@ -15,3 +15,8 @@ NB: This application is not yet in use because 'Lista Fenice' needs to finalize 
 - The Source Code is NOT YET available and will not be released unless the launch is SUCCESSFUL. If the launch FAILS, the source code will be DEPLOYED.
 
 You can reach the website [here](https://mcmeucci.shop)
+
+## Authors
+
+- [@jb](https://github.com/imbudro)
+- [@cb](https://github.com/CaptainBeluga)
